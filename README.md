@@ -58,6 +58,8 @@ Header:
 
 
 # CIRCUIT DIAGRAM:
+<img width="1071" height="542" alt="image" src="https://github.com/user-attachments/assets/a046584e-0772-4a81-bb15-dee5db113d1e" />
+
  
  
 # PROGRAM:
